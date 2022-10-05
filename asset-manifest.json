@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.1db3fb56.css",
-    "main.js": "/react-gh-pages/static/js/main.5b33aae1.js",
-    "static/js/787.fe039db8.chunk.js": "/react-gh-pages/static/js/787.fe039db8.chunk.js",
-    "static/media/curriculum.pdf": "/react-gh-pages/static/media/curriculum.e43b7777b9edd635a9ef.pdf",
-    "static/media/personal2.jpeg": "/react-gh-pages/static/media/personal2.f981a5e6ba8615ebb9b7.jpeg",
-    "static/media/developer2.svg": "/react-gh-pages/static/media/developer2.ef097afbc427c634086d2f1c2ad6032e.svg",
-    "static/media/contact.svg": "/react-gh-pages/static/media/contact.5afba85556efd4cf6ec3c83e65972969.svg",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.1db3fb56.css.map": "/react-gh-pages/static/css/main.1db3fb56.css.map",
-    "main.5b33aae1.js.map": "/react-gh-pages/static/js/main.5b33aae1.js.map",
-    "787.fe039db8.chunk.js.map": "/react-gh-pages/static/js/787.fe039db8.chunk.js.map"
+    "main.css": "/Portfolio-react/static/css/main.1db3fb56.css",
+    "main.js": "/Portfolio-react/static/js/main.59bda2a4.js",
+    "static/js/787.fe039db8.chunk.js": "/Portfolio-react/static/js/787.fe039db8.chunk.js",
+    "static/media/curriculum.pdf": "/Portfolio-react/static/media/curriculum.e43b7777b9edd635a9ef.pdf",
+    "static/media/personal2.jpeg": "/Portfolio-react/static/media/personal2.f981a5e6ba8615ebb9b7.jpeg",
+    "static/media/developer2.svg": "/Portfolio-react/static/media/developer2.ef097afbc427c634086d2f1c2ad6032e.svg",
+    "static/media/contact.svg": "/Portfolio-react/static/media/contact.5afba85556efd4cf6ec3c83e65972969.svg",
+    "static/media/logo.svg": "/Portfolio-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Portfolio-react/index.html",
+    "main.1db3fb56.css.map": "/Portfolio-react/static/css/main.1db3fb56.css.map",
+    "main.59bda2a4.js.map": "/Portfolio-react/static/js/main.59bda2a4.js.map",
+    "787.fe039db8.chunk.js.map": "/Portfolio-react/static/js/787.fe039db8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1db3fb56.css",
-    "static/js/main.5b33aae1.js"
+    "static/js/main.59bda2a4.js"
   ]
 }
